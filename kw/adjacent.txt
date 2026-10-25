@@ -1,0 +1,221 @@
+en | fish species guide | 鱼种或地区内容意图，隔离不计主量
+en | fish identification guide | 鱼种或地区内容意图，隔离不计主量
+en | online fish field guide | 鱼种或地区内容意图，隔离不计主量
+en | river fish identification | 鱼种或地区内容意图，隔离不计主量
+en | lake fish identification | 鱼种或地区内容意图，隔离不计主量
+en | pond fish identification | 鱼种或地区内容意图，隔离不计主量
+en | reef fish identification | 鱼种或地区内容意图，隔离不计主量
+en | juvenile fish identification | 鱼种或地区内容意图，隔离不计主量
+en | baitfish identification | 鱼种或地区内容意图，隔离不计主量
+en | bass identification | 鱼种或地区内容意图，隔离不计主量
+en | largemouth bass identification | 鱼种或地区内容意图，隔离不计主量
+en | smallmouth bass identification | 鱼种或地区内容意图，隔离不计主量
+en | spotted bass identification | 鱼种或地区内容意图，隔离不计主量
+en | largemouth vs smallmouth bass | 鱼种或地区内容意图，隔离不计主量
+en | trout identification | 鱼种或地区内容意图，隔离不计主量
+en | rainbow trout identification | 鱼种或地区内容意图，隔离不计主量
+en | brown trout identification | 鱼种或地区内容意图，隔离不计主量
+en | brook trout identification | 鱼种或地区内容意图，隔离不计主量
+en | trout identification chart | 鱼种或地区内容意图，隔离不计主量
+en | catfish identification | 鱼种或地区内容意图，隔离不计主量
+en | channel catfish identification | 鱼种或地区内容意图，隔离不计主量
+en | blue catfish vs channel catfish | 鱼种或地区内容意图，隔离不计主量
+en | flathead catfish identification | 鱼种或地区内容意图，隔离不计主量
+en | carp identification | 鱼种或地区内容意图，隔离不计主量
+en | common carp vs grass carp | 鱼种或地区内容意图，隔离不计主量
+en | pike identification | 鱼种或地区内容意图，隔离不计主量
+en | pike vs muskie identification | 鱼种或地区内容意图，隔离不计主量
+en | perch identification | 鱼种或地区内容意图，隔离不计主量
+en | walleye vs sauger identification | 鱼种或地区内容意图，隔离不计主量
+en | crappie identification | 鱼种或地区内容意图，隔离不计主量
+en | bluegill identification | 鱼种或地区内容意图，隔离不计主量
+en | sunfish identification | 鱼种或地区内容意图，隔离不计主量
+en | salmon identification | 鱼种或地区内容意图，隔离不计主量
+en | snapper identification | 鱼种或地区内容意图，隔离不计主量
+en | grouper identification | 鱼种或地区内容意图，隔离不计主量
+en | flounder identification | 鱼种或地区内容意图，隔离不计主量
+en | redfish identification | 鱼种或地区内容意图，隔离不计主量
+en | snook identification | 鱼种或地区内容意图，隔离不计主量
+en | Florida fish identification | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Florida | 鱼种或地区内容意图，隔离不计主量
+en | Florida saltwater fish identification | 鱼种或地区内容意图，隔离不计主量
+en | Texas fish identification | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Texas | 鱼种或地区内容意图，隔离不计主量
+en | California freshwater fish identification | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Michigan | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Wisconsin | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Minnesota | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of New York | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Pennsylvania | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Ohio | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of North Carolina | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Georgia | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Tennessee | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Missouri | 鱼种或地区内容意图，隔离不计主量
+en | freshwater fish of Washington state | 鱼种或地区内容意图，隔离不计主量
+en | Alaska salmon identification | 鱼种或地区内容意图，隔离不计主量
+en | UK freshwater fish identification | 鱼种或地区内容意图，隔离不计主量
+en | UK coarse fish identification | 鱼种或地区内容意图，隔离不计主量
+en | British sea fish identification | 鱼种或地区内容意图，隔离不计主量
+en | roach vs rudd identification | 鱼种或地区内容意图，隔离不计主量
+en | Ontario fish identification | 鱼种或地区内容意图，隔离不计主量
+en | Australian fish identification | 鱼种或地区内容意图，隔离不计主量
+en | fishing log | 相邻记录与收集，排除
+en | catch log | 相邻记录与收集，排除
+en | fishing journal | 相邻记录与收集，排除
+en | fishing diary | 相邻记录与收集，排除
+en | fishing log app | 相邻记录与收集，排除
+en | catch log app | 相邻记录与收集，排除
+en | fishing journal app | 相邻记录与收集，排除
+en | fishing log software | 相邻记录与收集，排除
+en | online fishing log | 相邻记录与收集，排除
+en | free fishing log app | 相邻记录与收集，排除
+en | fishing journal generator | 相邻记录与收集，排除
+en | catch log generator | 相邻记录与收集，排除
+en | digital fishing journal | 相邻记录与收集，排除
+en | fishing trip log | 相邻记录与收集，排除
+en | record fishing catches | 相邻记录与收集，排除
+en | fishing catch tracker | 相邻记录与收集，排除
+en | fishing photo journal | 相邻记录与收集，排除
+en | personal fishing catch statistics | 相邻记录与收集，排除
+en | personal best fish tracker | 相邻记录与收集，排除
+en | fish species collection app | 相邻记录与收集，排除
+en | fishing species checklist | 相邻记录与收集，排除
+en | fish life list | 相邻记录与收集，排除
+en | caught fish species list | 相邻记录与收集，排除
+en | personal fish species collection | 相邻记录与收集，排除
+en | fish identification and catch log | 相邻记录与收集，排除
+de | Fischlexikon online | 鱼种或地区内容意图，隔离不计主量
+de | Fangbuch | 相邻记录与收集，排除
+de | Fangtagebuch | 相邻记录与收集，排除
+de | Angeltagebuch | 相邻记录与收集，排除
+de | Fangbuch App | 相邻记录与收集，排除
+de | Fangtagebuch App | 相邻记录与收集，排除
+de | digitales Fangbuch | 相邻记录与收集，排除
+de | Fangbuch online | 相邻记录与收集，排除
+de | Fangbuch kostenlos | 相邻记录与收集，排除
+de | Angeltagebuch Software | 相邻记录与收集，排除
+de | Fänge dokumentieren | 相邻记录与收集，排除
+de | Fangstatistik App | 相邻记录与收集，排除
+de | Fangfotos verwalten | 相邻记录与收集，排除
+de | gefangene Fischarten dokumentieren | 相邻记录与收集，排除
+de | persönliche Fischartenliste | 相邻记录与收集，排除
+de | Fischarten sammeln App | 相邻记录与收集，排除
+fr | guide des poissons en ligne | 鱼种或地区内容意图，隔离不计主量
+fr | guide identification poissons | 鱼种或地区内容意图，隔离不计主量
+fr | carnet de pêche | 相邻记录与收集，排除
+fr | journal de pêche | 相邻记录与收集，排除
+fr | carnet de captures | 相邻记录与收集，排除
+fr | application carnet de pêche | 相邻记录与收集，排除
+fr | carnet de pêche en ligne | 相邻记录与收集，排除
+fr | carnet de pêche gratuit | 相邻记录与收集，排除
+fr | carnet de pêche numérique | 相邻记录与收集，排除
+fr | logiciel carnet de pêche | 相邻记录与收集，排除
+fr | enregistrer ses prises | 相邻记录与收集，排除
+fr | suivi des captures de pêche | 相邻记录与收集，排除
+fr | statistiques de mes captures | 相邻记录与收集，排除
+fr | album de prises de pêche | 相邻记录与收集，排除
+fr | liste des poissons pêchés | 相邻记录与收集，排除
+fr | collection de poissons pêchés | 相邻记录与收集，排除
+fr | application collection de poissons | 相邻记录与收集，排除
+fr | créer son carnet de pêche | 相邻记录与收集，排除
+es | diario de pesca | 相邻记录与收集，排除
+es | registro de capturas | 相邻记录与收集，排除
+es | cuaderno de pesca | 相邻记录与收集，排除
+es | app diario de pesca | 相邻记录与收集，排除
+es | aplicación registro de capturas | 相邻记录与收集，排除
+es | diario de pesca online | 相邻记录与收集，排除
+es | diario de pesca gratis | 相邻记录与收集，排除
+es | diario de pesca digital | 相邻记录与收集，排除
+es | software diario de pesca | 相邻记录与收集，排除
+es | registrar capturas de pesca | 相邻记录与收集，排除
+es | historial de capturas de pesca | 相邻记录与收集，排除
+es | estadísticas de mis capturas | 相邻记录与收集，排除
+es | álbum de capturas de pesca | 相邻记录与收集，排除
+es | lista de especies pescadas | 相邻记录与收集，排除
+es | colección de peces capturados | 相邻记录与收集，排除
+es | crear diario de pesca | 相邻记录与收集，排除
+it | diario di pesca | 相邻记录与收集，排除
+it | registro catture | 相邻记录与收集，排除
+it | taccuino di pesca | 相邻记录与收集，排除
+it | app diario di pesca | 相邻记录与收集，排除
+it | app registro catture | 相邻记录与收集，排除
+it | diario di pesca online | 相邻记录与收集，排除
+it | diario di pesca gratis | 相邻记录与收集，排除
+it | diario di pesca digitale | 相邻记录与收集，排除
+it | software diario di pesca | 相邻记录与收集，排除
+it | registrare le catture di pesca | 相邻记录与收集，排除
+it | statistiche catture pesca | 相邻记录与收集，排除
+it | album foto catture pesca | 相邻记录与收集，排除
+it | elenco specie pescate | 相邻记录与收集，排除
+it | collezione di pesci catturati | 相邻记录与收集，排除
+it | creare un diario di pesca | 相邻记录与收集，排除
+nl | vissengids online | 鱼种或地区内容意图，隔离不计主量
+nl | visdagboek | 相邻记录与收集，排除
+nl | vangstenlogboek | 相邻记录与收集，排除
+nl | vislogboek | 相邻记录与收集，排除
+nl | vangstenregistratie | 相邻记录与收集，排除
+nl | visdagboek app | 相邻记录与收集，排除
+nl | vangstenregistratie app | 相邻记录与收集，排除
+nl | online visdagboek | 相邻记录与收集，排除
+nl | gratis visdagboek app | 相邻记录与收集，排除
+nl | digitaal vangstenlogboek | 相邻记录与收集，排除
+nl | software voor vangstenregistratie | 相邻记录与收集，排除
+nl | vangsten bijhouden | 相邻记录与收集，排除
+nl | visvangst registreren | 相邻记录与收集，排除
+nl | vangststatistieken | 相邻记录与收集，排除
+nl | vangstfoto's bewaren | 相邻记录与收集，排除
+nl | lijst gevangen vissoorten | 相邻记录与收集，排除
+nl | vissoorten verzamelen app | 相邻记录与收集，排除
+nl | persoonlijke vissengids | 相邻记录与收集，排除
+ja | 魚図鑑 | 鱼种或地区内容意图，隔离不计主量
+ja | 魚図鑑 無料 | 鱼种或地区内容意图，隔离不计主量
+ja | 魚図鑑 オンライン | 鱼种或地区内容意图，隔离不计主量
+ja | 魚図鑑 写真 | 鱼种或地区内容意图，隔离不计主量
+ja | 釣り 魚図鑑 | 鱼种或地区内容意图，隔离不计主量
+ja | 日本の淡水魚 図鑑 | 鱼种或地区内容意图，隔离不计主量
+ja | 沖縄 魚 図鑑 | 鱼种或地区内容意图，隔离不计主量
+ja | 北海道 淡水魚 図鑑 | 鱼种或地区内容意图，隔离不计主量
+ja | 東京湾 魚 図鑑 | 鱼种或地区内容意图，隔离不计主量
+ja | 琵琶湖 魚 図鑑 | 鱼种或地区内容意图，隔离不计主量
+ja | 釣果記録 | 相邻记录与收集，排除
+ja | 釣り日記 | 相邻记录与收集，排除
+ja | 釣行記録 | 相邻记录与收集，排除
+ja | 釣果記録 アプリ | 相邻记录与收集，排除
+ja | 釣り日記 アプリ | 相邻记录与收集，排除
+ja | 釣果管理 アプリ | 相邻记录与收集，排除
+ja | 釣果記録 無料 | 相邻记录与收集，排除
+ja | 釣果記録 サイト | 相邻记录与收集，排除
+ja | 釣果管理 ソフト | 相邻记录与收集，排除
+ja | 釣果 写真 管理 | 相邻记录与收集，排除
+ja | 釣果 統計 | 相邻记录与收集，排除
+ja | 釣った魚 一覧 | 相邻记录与收集，排除
+ja | 釣った魚 図鑑 | 相邻记录与收集，排除
+ja | 自分だけの魚図鑑 | 相邻记录与收集，排除
+ja | 魚図鑑 作成 | 相邻记录与收集，排除
+ja | 魚図鑑 コレクション アプリ | 相邻记录与收集，排除
+ko | 물고기 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 물고기 도감 사이트 | 鱼种或地区内容意图，隔离不计主量
+ko | 낚시 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 어류 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 민물고기 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 바다 물고기 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 한국 민물고기 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 제주도 물고기 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 동해 물고기 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 서해 물고기 도감 | 鱼种或地区内容意图，隔离不计主量
+ko | 낚시 일지 | 相邻记录与收集，排除
+ko | 낚시 기록 | 相邻记录与收集，排除
+ko | 조과 기록 | 相邻记录与收集，排除
+ko | 낚시 일지 앱 | 相邻记录与收集，排除
+ko | 조과 기록 앱 | 相邻记录与收集，排除
+ko | 낚시 기록 어플 | 相邻记录与收集，排除
+ko | 무료 낚시 일지 | 相邻记录与收集，排除
+ko | 온라인 낚시 일지 | 相邻记录与收集，排除
+ko | 낚시 기록 프로그램 | 相邻记录与收集，排除
+ko | 낚시 사진 기록 | 相邻记录与收集，排除
+ko | 조과 통계 | 相邻记录与收集，排除
+ko | 낚은 물고기 목록 | 相邻记录与收集，排除
+ko | 나만의 물고기 도감 | 相邻记录与收集，排除
+ko | 물고기 도감 만들기 | 相邻记录与收集，排除
+ko | 잡은 물고기 도감 | 相邻记录与收集，排除
